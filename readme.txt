@@ -55,7 +55,7 @@ e.g.
 
 = Plugin Info =
 * Developed by [Tanvir](https://twitter.com/TanvirFocus) & [Theme Junkie](http://www.theme-junkie.com/)
-* Check out the [Github](https://github.com/TanvirAmi/TJ-Scroller/) repo to contribute.
+* Check out the [Github](https://github.com/themejunkie/TJ-Breadcrumb) repo to contribute.
 
 ==Changelog==
 
